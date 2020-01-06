@@ -198,5 +198,21 @@ h5{
     position: relative;
     border-bottom: 2px solid #DD8621;
 }
+.count{
+    font-size: 18px;
+}
+.offer_card_1{
+    border-top: 5px solid #6f42c1;
+    margin-right: -2%;
+}
+.offer_card_2{
+    border-top: 5px solid #ffc107 ;
+}
+.offer_card_3{
+    border-top: 5px solid #dc3545;
+    margin-left: -2%;
+
+}
+
 
 
